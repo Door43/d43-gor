@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gor:home|Door43 (gor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gor|d43-gor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gor/archive/master.zip|d43-gor.zip]]
+
+**Recent Changes**
+{{changes>ns = gor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gor|Ethnologue data]]
+
